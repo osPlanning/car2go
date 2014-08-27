@@ -13,3 +13,11 @@ Car2Go could reject your access request if it believes you may be using the data
 Our purposes are not specifically to track vehicles, but to understand aggregate fleet usage and vehicle availability 
 over time and space in context of other transportation options. Car2Go provides a dimension of mobility that we hope to
 measure and possibly integrate within our regional modeling and planning efforts.
+
+Potential uses:
+
+This data could help us infer trip tables for car-sharing. These trips are rarely captured at statistically significant rates from basic travel surveys, but this approach allows us to gather numerous trips at different times of day, for long periods of time. Trip origins and destinations can be inferred from where vehicles dissapear and reappear from the dataset. At finer collection intervals, travel times could be estimated as well.
+
+Data might also tell us how Car2Go coverage affects mobility and accessibility for certain neighborhoods at different times of day. Are vehicles being used as a supplement to existing transit service (and thus competing) or is the coverage reaching sparser locations where transit coverage is lower? Single-point data collection or state-preference surveys do not provide the depth that this data provides for these kinds of analyses. 
+
+What other interesting applications can we try? Please comment on potential uses!
