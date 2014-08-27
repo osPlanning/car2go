@@ -18,6 +18,6 @@ Potential uses:
 
 This data could help us infer trip tables for car-sharing. These trips are rarely captured at statistically significant rates from basic travel surveys, but this approach allows us to gather numerous trips at different times of day, for long periods of time. Trip origins and destinations can be inferred from where vehicles dissapear and reappear from the dataset. At finer collection intervals, travel times could be estimated as well.
 
-Data might also tell us how Car2Go coverage affects mobility and accessibility for certain neighborhoods at different times of day. Are vehicles being used as a supplement to existing transit service (and thus competing) or is the coverage reaching sparser locations where transit coverage is lower? Single-point data collection or state-preference surveys do not provide the depth that this data provides for these kinds of analyses. 
+Data might also tell us how Car2Go coverage affects mobility and accessibility for certain neighborhoods at different times of day. Are vehicles being used as a replacement to existing transit service (and thus competing) or is the service fostering more zero-car (by choice) households? Single-point data collection or stated-preference surveys do not provide the depth that this data provides for these kinds of analyses. 
 
 What other interesting applications can we try? Please comment on potential uses!
